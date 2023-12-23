@@ -1,2 +1,2 @@
 # ao.html
-lankah pertama
+langkah pertama
